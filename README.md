@@ -9,3 +9,5 @@ It should create a folder called "htmls" which includes html files that:
 - a main 'home' file named default.html
 
 The html files can either be used straight from itself or by a redirect from the default.html
+
+NOTE: all channels and embedded streams belong to Telewebion, IRIB and other relevant entities and companies.
