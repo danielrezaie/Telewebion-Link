@@ -3,7 +3,7 @@ import os
 # Variables for setup
 filename = 'Telewebion_Embed_Links.txt'
 folder_name = 'htmls'
-log_file_name = 'AAAdefault.html'
+log_file_name = 'default.html'
 prefix1 = '''<!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
